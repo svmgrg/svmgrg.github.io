@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shivam Garg</title>
-    <description>Homepage of Shivam Garg, Computer Science Undergraduate
+    <description>Homepage of Shivam Garg, IIT (BHU), Varanasi
 </description>
     <link>http://svmgrg.github.io//</link>
     <atom:link href="http://svmgrg.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Jan 2017 02:23:45 +0530</pubDate>
-    <lastBuildDate>Fri, 27 Jan 2017 02:23:45 +0530</lastBuildDate>
+    <pubDate>Fri, 27 Jan 2017 23:16:31 +0530</pubDate>
+    <lastBuildDate>Fri, 27 Jan 2017 23:16:31 +0530</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
   </channel>

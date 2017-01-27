@@ -7,9 +7,10 @@
 
 # Site settings
 title: Shivam Garg
-email: shivam.gargcd.cse14@itbhu.ac.in
+email: sgdpsi@gmail.com
+email2: shivam.gargcd.cse14@itbhu.ac.in
 description: > # this means to ignore newlines until "baseurl:"
-  Homepage of Shivam Garg, Computer Science Undergraduate
+  Homepage of Shivam Garg, IIT (BHU), Varanasi
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://svmgrg.github.io/" # the base hostname & protocol for your site
 
